@@ -8,8 +8,8 @@
 ---
 
 ### 🛠️ Tech Toolbox:
-- **Languages:** JavaScript, C++, HTML5, CSS3  
-- **Frontend:** React.js, Tailwind CSS, DaisyUI, Bootstrap  
+- **Languages:** JavaScript, C++,  
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, DaisyUI, Bootstrap  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Mongoose  
 - **CS Core:** Data Structures & Algorithms, Object-Oriented Programming, System Design  
@@ -20,11 +20,12 @@
 ### ⚡ GitHub Stats:
 ![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi6384&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi6384&layout=compact&theme=radical)
+
 
 ---
 
 ### 🌐 Let's Connect!
+- 🔗 [Portfolio](https://mahiisadev.vercel.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahijain6384/)
 - 🧠 [LeetCode](https://leetcode.com/u/Mahij_12/)
 - 📧 Feel free to ping me here → **mahijaincodes@gmail.com**
