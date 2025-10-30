@@ -26,9 +26,6 @@
 
 - [StreamZone](https://github.com/Mahi6384/StreamZone) – Video streaming platform  
 - [JobPilot](https://github.com/Mahi6384/JobPilot) – AI-powered job application automation  
-- [Book Store](https://github.com/Mahi6384/book-store) – E-commerce book platform  
-- [Handikart](https://github.com/Mahi6384/Handikart) – Handicraft products marketplace  
-
 ---
 
 ### ⚡ GitHub Stats & Contributions
