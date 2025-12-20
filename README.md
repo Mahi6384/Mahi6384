@@ -28,9 +28,7 @@
 - [JobPilot](https://github.com/Mahi6384/JobPilot) – AI-powered job application automation  
 ---
 
-### ⚡ GitHub Stats & Contributions
 
-![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi6384&show_icons=true&theme=radical&count_private=true)
 
 
 ---
